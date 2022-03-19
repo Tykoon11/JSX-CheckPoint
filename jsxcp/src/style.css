@@ -1,0 +1,12 @@
+.title{
+    color: #13549C;
+    text-decoration: underline;
+}
+.red{
+    background-color: yellow;
+    border: 3px dashed #13549C;
+}
+img{
+    width: 500px;
+    height: 300px;
+}
