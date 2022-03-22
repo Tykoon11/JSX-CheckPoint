@@ -12,7 +12,7 @@ function App() {
         <br/>
         <img src ={imageInSrc} alt ='hacker1'/>
         <br/>
-        <img src = "/jsxcp/public/imageInPublic.jpeg" alt ="laptop"/>
+        <img src = "../imageInPublic.jpeg" alt ="laptop"/>
       </div>
       <video width="320" height="240" controls >
         <source src = 'myVideo.mp4'type='video/mp4'/>
